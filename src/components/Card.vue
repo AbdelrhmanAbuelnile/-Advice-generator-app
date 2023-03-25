@@ -1,5 +1,5 @@
 <template>
-    <div class="flex justify-center items-center w-5/6 h-[300px] flex-col gap-4 p-5 rounded-xl bg-Dark-Grayish-Blue max-w-lg">
+    <div class="flex justify-center items-center w-5/6 flex-col gap-4 p-5 rounded-xl bg-Dark-Grayish-Blue max-w-lg">
         <h1 class="text-Neon-Green">Advice #{{ id }}</h1>
         <p class="text-Light-Cyan text-2.5xl text-center">"{{ advice }}"</p>
         <img src="../assets/images/pattern-divider-mobile.svg" class="w-full" alt="">
